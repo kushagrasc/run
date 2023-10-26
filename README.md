@@ -52,5 +52,4 @@ This project is a standard Maven Java project with src folders and pom.xml
 ### Installation
 `mvn clean install` To install the project and it's dependencies 
 
-## Help
-If you got any questions don't hesitate to contact me: [LinkedIn-Yashraj Gore](https://www.linkedin.com/in/yashrajgore/) 
+̀
